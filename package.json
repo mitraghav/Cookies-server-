@@ -1,0 +1,31 @@
+{
+  "name": "faizu-multi-cookie-server",
+  "version": "2.0.0",
+  "description": "Multi-cookie messenger system with WebSocket and file upload support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "websocket",
+    "messenger",
+    "multi-cookie",
+    "automation"
+  ],
+  "author": "Faizu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.0",
+    "ws": "^8.13.0",
+    "ws3-fca": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
