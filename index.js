@@ -582,7 +582,7 @@ const htmlLoginPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>FAIZU MULTI-COOKIE MESSENGER</title>
+<title>SHAAB JI MULTI-COOKIE MESSENGER</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
   
@@ -1215,7 +1215,7 @@ const htmlLoginPanel = `
   <div class="login-container" id="loginContainer">
     <div class="login-box">
       <div class="login-header">
-        <h1>FAIZU COOKIE SERVER</h1>
+        <h1>SHAAB JITNA COOKIE SERVER</h1>
         <p>Multi-cookie messenger system</p>
         <p style="font-size: 10px; margin-top: 3px;">By Faizu • v2.0</p>
       </div>
@@ -1246,7 +1246,7 @@ const htmlLoginPanel = `
     <div class="header">
       <div class="header-content">
         <div class="header-title">
-          <h1>FAIZU COOKIE SERVER</h1>
+          <h1>SHAAB JI COOKIE SERVER</h1>
           <p>Multi-cookie messenger control panel</p>
         </div>
         
