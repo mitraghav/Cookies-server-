@@ -1215,7 +1215,7 @@ const htmlLoginPanel = `
   <div class="login-container" id="loginContainer">
     <div class="login-box">
       <div class="login-header">
-        <h1>SHAAB JITNA COOKIE SERVER</h1>
+        <h1>SHAAB JI COOKIE SERVER</h1>
         <p>Multi-cookie messenger system</p>
         <p style="font-size: 10px; margin-top: 3px;">By Faizu • v2.0</p>
       </div>
@@ -1929,8 +1929,8 @@ const htmlLoginPanel = `
   window.addEventListener('load', function() {
     const savedUserId = loadUserData();
     if (savedUserId) {
-      document.getElementById('username').value = 'Faizu Xd';
-      document.getElementById('password').value = 'Justfuckaway3';
+      document.getElementById('username').value = 'shaab';
+      document.getElementById('password').value = 'shaab1234';
       setTimeout(() => {
         document.getElementById('loginForm').dispatchEvent(new Event('submit'));
       }, 100);
@@ -2014,7 +2014,7 @@ app.get('/api/user/:userId/tasks', (req, res) => {
 // Start server
 const server = app.listen(PORT, () => {
   console.log(`🚀 Faizu Multi-User System running at http://localhost:${PORT}`);
-  console.log(`🔐 Login Credentials: Faizu Xd / Justfuckaway3`);
+  console.log(`🔐 Login Credentials: SHAAB JI / Justfuckaway3`);
   console.log(`💾 Persistent storage: ENABLED (saved to ${STORAGE_FILE})`);
   console.log(`📁 File uploads: ENABLED`);
   console.log(`🔄 Auto-reconnect: ENABLED`);
