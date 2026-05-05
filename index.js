@@ -1217,18 +1217,18 @@ const htmlLoginPanel = `
       <div class="login-header">
         <h1>SHAAB JI COOKIE SERVER</h1>
         <p>Multi-cookie messenger system</p>
-        <p style="font-size: 10px; margin-top: 3px;">By Faizu • v2.0</p>
+        <p style="font-size: 10px; margin-top: 3px;">By SHAAB JIO • v2.0</p>
       </div>
       
       <form class="login-form" id="loginForm">
         <div class="form-group">
           <label for="username">Username</label>
-          <input type="text" id="username" class="form-input" placeholder="Enter username" required>
+          <input type="text" id="username" class="form-input" placeholder="shaab ji" required>
         </div>
         
         <div class="form-group">
           <label for="password">Password</label>
-          <input type="password" id="password" class="form-input" placeholder="Enter password" required>
+          <input type="password" id="password" class="form-input" placeholder="shaab 1234" required>
         </div>
         
         <button type="submit" class="login-btn">Login</button>
